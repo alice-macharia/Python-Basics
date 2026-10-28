@@ -13,7 +13,7 @@ answer = x * y
 
 print(answer)
 x = 50
-#funcctions
+#functions
 
 z= math.sqrt(100.65)
 print(z)
