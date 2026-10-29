@@ -48,3 +48,10 @@ people=[{"name": "Jack", "age": 25, "height": 80, "weight": 70},
         {"name": "Alice", "age": 25, "height": 80, "weight": 70},
         ]
 print(people[0])
+print(people[0]["age"])
+print(people[0]["height"])
+print(people[0]["weight"])
+print(people[1]["age"])
+print(people[1]["height"])
+print(people[1]["weight"])
+print(people[2]["age"])
