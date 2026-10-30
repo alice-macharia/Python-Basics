@@ -20,3 +20,6 @@ c3= Circle(7)
 
 print(c1.area())
 c1.print_details()
+print(c2.area())
+c2.print_details()
+#learn inheritance
